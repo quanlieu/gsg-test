@@ -1,0 +1,16 @@
+{
+  "name": "gsg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha run-test.js",
+    "test:watch": "mocha run-test.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.3.0",
+    "unit.js": "^2.1.1"
+  }
+}
